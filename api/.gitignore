@@ -1,7 +1,1 @@
-__pyache__/` directory. This is a cache directory that is created by the Python interpreter. It is not needed in the repository.
-
-  2. The `__pycache__/` directory is not needed in the repository. It is a cache directory that is created by the Python interpreter.
-
-  3. The `__pycache__/` directory is a cache directory that is created by the Python interpreter. It is not needed in the repository.
-
-  4. The `__pycache__/` directory is a cache directory that is created by the Python interpreter. It is not needed in the repository.
+__pycache__/
